@@ -8,12 +8,11 @@
 
 body {
     font-family: "Encode Sans", serif;
+    padding: 0px 195px 0px 140px;
 }
 
 header{
     height: 125px;
-    margin-left: 140px;
-    margin-right: 195px;
 }
 header figure{
     text-align: center;
@@ -40,9 +39,11 @@ ul {
 
 main, section{
     width: 50%;
+    height: 600px;
     background-color: red;
 }
 aside{
     width: 25%;
+    height: 600px;
     background-color: orange;
 }
