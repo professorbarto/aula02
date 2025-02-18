@@ -38,3 +38,11 @@ ul {
     justify-content: space-around;
 }
 
+main, section{
+    width: 50%;
+    background-color: red;
+}
+aside{
+    width: 25%;
+    background-color: orange;
+}
