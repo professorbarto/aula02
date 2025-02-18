@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Encode Sans", serif;
+}
+
+header{
+    height: 125px;
+    margin-left: 140px;
+    margin-right: 195px;
+}
+header figure{
+    text-align: center;
+}
+header figure img {
+    width: 171px;
+    height: 36px;
+    margin: 22px 0px;
+}
+li a {
+    text-align: center;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
